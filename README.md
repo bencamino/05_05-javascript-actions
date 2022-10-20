@@ -5,7 +5,7 @@
 - [Octokit documentation](https://octokit.github.io/rest.js)
 
 ## The exercise details
-Use these files to test a JavaScript action that uses the @actions/gihtub pacakge.
+Use these files to test a Javascript action that uses the @actions/gihtub pacakge.
 
 The action can be triggered on pushes, pull requests, and workflow distpathes.
 - If the workflow event is not a pull request, a warning is issued
